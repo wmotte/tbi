@@ -1,6 +1,4 @@
 # tbi
-Traumatic brain injury study
-
 All scripts related to the study on traumatic brain injury in rats are available in this repository.
 The study is described in:
 
