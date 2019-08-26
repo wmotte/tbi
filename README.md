@@ -19,7 +19,7 @@ Diffusion-weighted MRI (4.7T; 2D multislice EPI; isotropic 0.5-mm voxels; b = 12
 Images were (non)-linearly registered to a 3D digital rat brain atlas.
 Fractional anisotropy, mean diffusivity, axial diffusivity and radial diffusivity, were calculated in various white and grey matter regions. Sensorimotor function was assessed from a sensorimotor deficit score and a beam walk test.
 
-The image processing relies on programs [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) as well as on inhouse C++-tools.
+The image processing relies on programs from [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) and [AFNI](https://afni.nimh.nih.gov) as well as on inhouse C++-tools.
 Source code for these tools is provided [here](https://github.com/wmotte/toolkid/).
 Binaries – compiled on a Ubuntu 64bit server – are [available](bin/) as well.
 

@@ -1,0 +1,253 @@
+Rat;Time;Metric;variable;value;Group;Condition;Class;Timepoint;roi
+qs1;pre;FA;Cortex;0.20;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;00h;FA;Cortex;0.20;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;24h;FA;Cortex;0.20;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;01w;FA;Cortex;0.20;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;01m;FA;Cortex;0.20;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;3m-4m;FA;Cortex;0.20;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;pre;FA;Cortex;0.35;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;00h;FA;Cortex;0.35;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;24h;FA;Cortex;0.35;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;01w;FA;Cortex;0.35;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;01m;FA;Cortex;0.35;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;3m-4m;FA;Cortex;0.35;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;pre;FA;Cpu;0.25;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;00h;FA;Cpu;0.25;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;24h;FA;Cpu;0.25;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;01w;FA;Cpu;0.25;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;01m;FA;Cpu;0.25;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;3m-4m;FA;Cpu;0.25;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;pre;FA;Cpu;0.40;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;00h;FA;Cpu;0.40;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;24h;FA;Cpu;0.40;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;01w;FA;Cpu;0.40;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;01m;FA;Cpu;0.40;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;3m-4m;FA;Cpu;0.40;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;pre;FA;hipp;0.25;Mild;Mild;Lower;pre;Hippocampus
+qs1;00h;FA;hipp;0.25;Mild;Mild;Lower;pre;Hippocampus
+qs1;24h;FA;hipp;0.25;Mild;Mild;Lower;pre;Hippocampus
+qs1;01w;FA;hipp;0.25;Mild;Mild;Lower;pre;Hippocampus
+qs1;01m;FA;hipp;0.25;Mild;Mild;Lower;pre;Hippocampus
+qs1;3m-4m;FA;hipp;0.25;Mild;Mild;Lower;pre;Hippocampus
+qs1;pre;FA;hipp;0.40;Mild;Mild;Higher;pre;Hippocampus
+qs1;00h;FA;hipp;0.40;Mild;Mild;Higher;pre;Hippocampus
+qs1;24h;FA;hipp;0.40;Mild;Mild;Higher;pre;Hippocampus
+qs1;01w;FA;hipp;0.40;Mild;Mild;Higher;pre;Hippocampus
+qs1;01m;FA;hipp;0.40;Mild;Mild;Higher;pre;Hippocampus
+qs1;3m-4m;FA;hipp;0.40;Mild;Mild;Higher;pre;Hippocampus
+qs1;pre;FA;ic;0.38;Mild;Mild;Lower;pre;Internal Capsule
+qs1;00h;FA;ic;0.38;Mild;Mild;Lower;pre;Internal Capsule
+qs1;24h;FA;ic;0.38;Mild;Mild;Lower;pre;Internal Capsule
+qs1;01w;FA;ic;0.38;Mild;Mild;Lower;pre;Internal Capsule
+qs1;01m;FA;ic;0.38;Mild;Mild;Lower;pre;Internal Capsule
+qs1;3m-4m;FA;ic;0.38;Mild;Mild;Lower;pre;Internal Capsule
+qs1;pre;FA;ic;0.53;Mild;Mild;Higher;pre;Internal Capsule
+qs1;00h;FA;ic;0.53;Mild;Mild;Higher;pre;Internal Capsule
+qs1;24h;FA;ic;0.53;Mild;Mild;Higher;pre;Internal Capsule
+qs1;01w;FA;ic;0.53;Mild;Mild;Higher;pre;Internal Capsule
+qs1;01m;FA;ic;0.53;Mild;Mild;Higher;pre;Internal Capsule
+qs1;3m-4m;FA;ic;0.53;Mild;Mild;Higher;pre;Internal Capsule
+qs1;pre;FA;cp;0.35;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;00h;FA;cp;0.35;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;24h;FA;cp;0.35;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;01w;FA;cp;0.35;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;01m;FA;cp;0.35;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;3m-4m;FA;cp;0.35;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;pre;FA;cp;0.50;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;00h;FA;cp;0.50;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;24h;FA;cp;0.50;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;01w;FA;cp;0.50;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;01m;FA;cp;0.50;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;3m-4m;FA;cp;0.50;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;pre;FA;cg;0.35;Mild;Mild;Lower;pre;Cingulum
+qs1;00h;FA;cg;0.35;Mild;Mild;Lower;pre;Cingulum
+qs1;24h;FA;cg;0.35;Mild;Mild;Lower;pre;Cingulum
+qs1;01w;FA;cg;0.35;Mild;Mild;Lower;pre;Cingulum
+qs1;01m;FA;cg;0.35;Mild;Mild;Lower;pre;Cingulum
+qs1;3m-4m;FA;cg;0.35;Mild;Mild;Lower;pre;Cingulum
+qs1;pre;FA;cg;0.50;Mild;Mild;Higher;pre;Cingulum
+qs1;00h;FA;cg;0.50;Mild;Mild;Higher;pre;Cingulum
+qs1;24h;FA;cg;0.50;Mild;Mild;Higher;pre;Cingulum
+qs1;01w;FA;cg;0.50;Mild;Mild;Higher;pre;Cingulum
+qs1;01m;FA;cg;0.50;Mild;Mild;Higher;pre;Cingulum
+qs1;3m-4m;FA;cg;0.50;Mild;Mild;Higher;pre;Cingulum
+qs1;pre;FA;cc;0.45;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;00h;FA;cc;0.45;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;24h;FA;cc;0.45;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;01w;FA;cc;0.45;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;01m;FA;cc;0.45;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;3m-4m;FA;cc;0.45;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;pre;FA;cc;0.60;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;00h;FA;cc;0.60;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;24h;FA;cc;0.60;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;01w;FA;cc;0.60;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;01m;FA;cc;0.60;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;3m-4m;FA;cc;0.60;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;pre;RD;Cortex;0.05;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;00h;RD;Cortex;0.05;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;24h;RD;Cortex;0.05;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;01w;RD;Cortex;0.05;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;01m;RD;Cortex;0.05;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;3m-4m;RD;Cortex;0.05;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;pre;RD;Cortex;0.09;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;00h;RD;Cortex;0.09;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;24h;RD;Cortex;0.09;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;01w;RD;Cortex;0.09;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;01m;RD;Cortex;0.09;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;3m-4m;RD;Cortex;0.09;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;pre;RD;Cpu;0.04;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;00h;RD;Cpu;0.04;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;24h;RD;Cpu;0.04;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;01w;RD;Cpu;0.04;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;01m;RD;Cpu;0.04;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;3m-4m;RD;Cpu;0.04;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;pre;RD;Cpu;0.08;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;00h;RD;Cpu;0.08;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;24h;RD;Cpu;0.08;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;01w;RD;Cpu;0.08;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;01m;RD;Cpu;0.08;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;3m-4m;RD;Cpu;0.08;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;pre;RD;hipp;0.05;Mild;Mild;Lower;pre;Hippocampus
+qs1;00h;RD;hipp;0.05;Mild;Mild;Lower;pre;Hippocampus
+qs1;24h;RD;hipp;0.05;Mild;Mild;Lower;pre;Hippocampus
+qs1;01w;RD;hipp;0.05;Mild;Mild;Lower;pre;Hippocampus
+qs1;01m;RD;hipp;0.05;Mild;Mild;Lower;pre;Hippocampus
+qs1;3m-4m;RD;hipp;0.05;Mild;Mild;Lower;pre;Hippocampus
+qs1;pre;RD;hipp;0.09;Mild;Mild;Higher;pre;Hippocampus
+qs1;00h;RD;hipp;0.09;Mild;Mild;Higher;pre;Hippocampus
+qs1;24h;RD;hipp;0.09;Mild;Mild;Higher;pre;Hippocampus
+qs1;01w;RD;hipp;0.09;Mild;Mild;Higher;pre;Hippocampus
+qs1;01m;RD;hipp;0.09;Mild;Mild;Higher;pre;Hippocampus
+qs1;3m-4m;RD;hipp;0.09;Mild;Mild;Higher;pre;Hippocampus
+qs1;pre;RD;ic;0.04;Mild;Mild;Lower;pre;Internal Capsule
+qs1;00h;RD;ic;0.04;Mild;Mild;Lower;pre;Internal Capsule
+qs1;24h;RD;ic;0.04;Mild;Mild;Lower;pre;Internal Capsule
+qs1;01w;RD;ic;0.04;Mild;Mild;Lower;pre;Internal Capsule
+qs1;01m;RD;ic;0.04;Mild;Mild;Lower;pre;Internal Capsule
+qs1;3m-4m;RD;ic;0.04;Mild;Mild;Lower;pre;Internal Capsule
+qs1;pre;RD;ic;0.08;Mild;Mild;Higher;pre;Internal Capsule
+qs1;00h;RD;ic;0.08;Mild;Mild;Higher;pre;Internal Capsule
+qs1;24h;RD;ic;0.08;Mild;Mild;Higher;pre;Internal Capsule
+qs1;01w;RD;ic;0.08;Mild;Mild;Higher;pre;Internal Capsule
+qs1;01m;RD;ic;0.08;Mild;Mild;Higher;pre;Internal Capsule
+qs1;3m-4m;RD;ic;0.08;Mild;Mild;Higher;pre;Internal Capsule
+qs1;pre;RD;cp;0.05;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;00h;RD;cp;0.05;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;24h;RD;cp;0.05;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;01w;RD;cp;0.05;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;01m;RD;cp;0.05;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;3m-4m;RD;cp;0.05;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;pre;RD;cp;0.09;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;00h;RD;cp;0.09;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;24h;RD;cp;0.09;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;01w;RD;cp;0.09;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;01m;RD;cp;0.09;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;3m-4m;RD;cp;0.09;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;pre;RD;cg;0.04;Mild;Mild;Lower;pre;Cingulum
+qs1;00h;RD;cg;0.04;Mild;Mild;Lower;pre;Cingulum
+qs1;24h;RD;cg;0.04;Mild;Mild;Lower;pre;Cingulum
+qs1;01w;RD;cg;0.04;Mild;Mild;Lower;pre;Cingulum
+qs1;01m;RD;cg;0.04;Mild;Mild;Lower;pre;Cingulum
+qs1;3m-4m;RD;cg;0.04;Mild;Mild;Lower;pre;Cingulum
+qs1;pre;RD;cg;0.08;Mild;Mild;Higher;pre;Cingulum
+qs1;00h;RD;cg;0.08;Mild;Mild;Higher;pre;Cingulum
+qs1;24h;RD;cg;0.08;Mild;Mild;Higher;pre;Cingulum
+qs1;01w;RD;cg;0.08;Mild;Mild;Higher;pre;Cingulum
+qs1;01m;RD;cg;0.08;Mild;Mild;Higher;pre;Cingulum
+qs1;3m-4m;RD;cg;0.08;Mild;Mild;Higher;pre;Cingulum
+qs1;pre;RD;cc;0.04;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;00h;RD;cc;0.04;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;24h;RD;cc;0.04;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;01w;RD;cc;0.04;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;01m;RD;cc;0.04;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;3m-4m;RD;cc;0.04;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;pre;RD;cc;0.08;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;00h;RD;cc;0.08;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;24h;RD;cc;0.08;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;01w;RD;cc;0.08;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;01m;RD;cc;0.08;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;3m-4m;RD;cc;0.08;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;pre;AD;Cortex;0.08;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;00h;AD;Cortex;0.08;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;24h;AD;Cortex;0.08;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;01w;AD;Cortex;0.08;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;01m;AD;Cortex;0.08;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;3m-4m;AD;Cortex;0.08;Mild;Mild;Lower;pre;Sensorimotor Cortex
+qs1;pre;AD;Cortex;0.12;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;00h;AD;Cortex;0.12;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;24h;AD;Cortex;0.12;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;01w;AD;Cortex;0.12;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;01m;AD;Cortex;0.12;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;3m-4m;AD;Cortex;0.12;Mild;Mild;Higher;pre;Sensorimotor Cortex
+qs1;pre;AD;Cpu;0.08;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;00h;AD;Cpu;0.08;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;24h;AD;Cpu;0.08;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;01w;AD;Cpu;0.08;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;01m;AD;Cpu;0.08;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;3m-4m;AD;Cpu;0.08;Mild;Mild;Lower;pre;Caudate Putamen
+qs1;pre;AD;Cpu;0.12;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;00h;AD;Cpu;0.12;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;24h;AD;Cpu;0.12;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;01w;AD;Cpu;0.12;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;01m;AD;Cpu;0.12;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;3m-4m;AD;Cpu;0.12;Mild;Mild;Higher;pre;Caudate Putamen
+qs1;pre;AD;hipp;0.10;Mild;Mild;Lower;pre;Hippocampus
+qs1;00h;AD;hipp;0.10;Mild;Mild;Lower;pre;Hippocampus
+qs1;24h;AD;hipp;0.10;Mild;Mild;Lower;pre;Hippocampus
+qs1;01w;AD;hipp;0.10;Mild;Mild;Lower;pre;Hippocampus
+qs1;01m;AD;hipp;0.10;Mild;Mild;Lower;pre;Hippocampus
+qs1;3m-4m;AD;hipp;0.10;Mild;Mild;Lower;pre;Hippocampus
+qs1;pre;AD;hipp;0.14;Mild;Mild;Higher;pre;Hippocampus
+qs1;00h;AD;hipp;0.14;Mild;Mild;Higher;pre;Hippocampus
+qs1;24h;AD;hipp;0.14;Mild;Mild;Higher;pre;Hippocampus
+qs1;01w;AD;hipp;0.14;Mild;Mild;Higher;pre;Hippocampus
+qs1;01m;AD;hipp;0.14;Mild;Mild;Higher;pre;Hippocampus
+qs1;3m-4m;AD;hipp;0.14;Mild;Mild;Higher;pre;Hippocampus
+qs1;pre;AD;ic;0.10;Mild;Mild;Lower;pre;Internal Capsule
+qs1;00h;AD;ic;0.10;Mild;Mild;Lower;pre;Internal Capsule
+qs1;24h;AD;ic;0.10;Mild;Mild;Lower;pre;Internal Capsule
+qs1;01w;AD;ic;0.10;Mild;Mild;Lower;pre;Internal Capsule
+qs1;01m;AD;ic;0.10;Mild;Mild;Lower;pre;Internal Capsule
+qs1;3m-4m;AD;ic;0.10;Mild;Mild;Lower;pre;Internal Capsule
+qs1;pre;AD;ic;0.14;Mild;Mild;Higher;pre;Internal Capsule
+qs1;00h;AD;ic;0.14;Mild;Mild;Higher;pre;Internal Capsule
+qs1;24h;AD;ic;0.14;Mild;Mild;Higher;pre;Internal Capsule
+qs1;01w;AD;ic;0.14;Mild;Mild;Higher;pre;Internal Capsule
+qs1;01m;AD;ic;0.14;Mild;Mild;Higher;pre;Internal Capsule
+qs1;3m-4m;AD;ic;0.14;Mild;Mild;Higher;pre;Internal Capsule
+qs1;pre;AD;cp;0.12;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;00h;AD;cp;0.12;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;24h;AD;cp;0.12;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;01w;AD;cp;0.12;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;01m;AD;cp;0.12;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;3m-4m;AD;cp;0.12;Mild;Mild;Lower;pre;Cerebral Peduncles
+qs1;pre;AD;cp;0.16;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;00h;AD;cp;0.16;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;24h;AD;cp;0.16;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;01w;AD;cp;0.16;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;01m;AD;cp;0.16;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;3m-4m;AD;cp;0.16;Mild;Mild;Higher;pre;Cerebral Peduncles
+qs1;pre;AD;cg;0.10;Mild;Mild;Lower;pre;Cingulum
+qs1;00h;AD;cg;0.10;Mild;Mild;Lower;pre;Cingulum
+qs1;24h;AD;cg;0.10;Mild;Mild;Lower;pre;Cingulum
+qs1;01w;AD;cg;0.10;Mild;Mild;Lower;pre;Cingulum
+qs1;01m;AD;cg;0.10;Mild;Mild;Lower;pre;Cingulum
+qs1;3m-4m;AD;cg;0.10;Mild;Mild;Lower;pre;Cingulum
+qs1;pre;AD;cg;0.14;Mild;Mild;Higher;pre;Cingulum
+qs1;00h;AD;cg;0.14;Mild;Mild;Higher;pre;Cingulum
+qs1;24h;AD;cg;0.14;Mild;Mild;Higher;pre;Cingulum
+qs1;01w;AD;cg;0.14;Mild;Mild;Higher;pre;Cingulum
+qs1;01m;AD;cg;0.14;Mild;Mild;Higher;pre;Cingulum
+qs1;3m-4m;AD;cg;0.14;Mild;Mild;Higher;pre;Cingulum
+qs1;pre;AD;cc;0.13;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;00h;AD;cc;0.13;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;24h;AD;cc;0.13;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;01w;AD;cc;0.13;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;01m;AD;cc;0.13;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;3m-4m;AD;cc;0.13;Mild;Mild;Lower;pre;Corpus Callosum
+qs1;pre;AD;cc;0.17;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;00h;AD;cc;0.17;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;24h;AD;cc;0.17;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;01w;AD;cc;0.17;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;01m;AD;cc;0.17;Mild;Mild;Higher;pre;Corpus Callosum
+qs1;3m-4m;AD;cc;0.17;Mild;Mild;Higher;pre;Corpus Callosum
