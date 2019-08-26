@@ -15,13 +15,13 @@ elucidate its relationship to changes in sensorimotor function at different leve
 We induced mild or moderate TBI in 52 adult male Sprague-Dawley rats using the Marmarou weight-drop-model under isoflurane anesthesia. Fourteen animals underwent a sham procedure.
 Diffusion-weighted MRI (4.7T; 2D multislice EPI; isotropic 0.5-mm voxels; b = 1282 s/mm2; 60 diffusion-weighting directions) was done under isoflurane anesthesia prior to injury, and at 1h, 24h, one week, one month and three to four months after injury. 
 Images were (non)-linearly registered to a 3D digital rat brain atlas.
-Fractional anisotropy, mean diffusivity, axial diffusivity and radial diffusivity, were calculated in various white and grey matter regions. Sensorimotor function was assessed from a sensorimotor deficit score and a beam walk test.
+Fractional anisotropy, mean diffusivity (MD), axial (AD) and radial diffusivity (RD), were calculated in various white and grey matter regions. Sensorimotor function was assessed from a sensorimotor deficit score and a beam walk test.
 
 ### Results
 
 The figure below presents the traumatic brain injury model (1A) and some of the results.
 ![Figure 1](figures/Figure_1.png)
-Sensorimotor deficits were apparent at 24h and one week after moderate brain injury, followed by normalization at later time-points (1B). No deficits were found in the mild injury and sham groups. Radial, axial and mean diffusivity were increased, while the fractional anisotropy was reduced, in the corpus callosum and hippocampi at 1h, 24h and one week after moderate brain injury (1B). Values normalized over time. Diffusion parameters were not significantly altered in the mild injury and sham groups. There was a strong relationship between sensorimotor function and diffusion parameters in the corpus callosum at 24h after moderate TBI (1C). 
+Sensorimotor deficits were apparent at 24h and one week after moderate brain injury, followed by normalization at later time-points (1B). No deficits were found in the mild injury and sham groups. Radial, axial and mean diffusivity were increased, while the fractional anisotropy (FA) was reduced, in the corpus callosum and hippocampi at 1h, 24h and one week after moderate brain injury (1B). Values normalized over time. Diffusion parameters were not significantly altered in the mild injury and sham groups. There was a strong relationship between sensorimotor function and diffusion parameters in the corpus callosum at 24h after moderate TBI (1C). 
 
 ### Data processing
 
