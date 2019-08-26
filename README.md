@@ -19,6 +19,14 @@ Diffusion-weighted MRI (4.7T; 2D multislice EPI; isotropic 0.5-mm voxels; b = 12
 Images were (non)-linearly registered to a 3D digital rat brain atlas.
 Fractional anisotropy, mean diffusivity, axial diffusivity and radial diffusivity, were calculated in various white and grey matter regions. Sensorimotor function was assessed from a sensorimotor deficit score and a beam walk test.
 
+### Results
+
+The figure below presents the traumatic brain injury model (1A) and some of the results.
+![Figure 1](figures/Figure_1.png)
+Sensorimotor deficits were apparent at 24h and one week after moderate brain injury, followed by normalization at later time-points (1B). No deficits were found in the mild injury and sham groups. Radial, axial and mean diffusivity were increased, while the fractional anisotropy was reduced, in the corpus callosum and hippocampi at 1h, 24h and one week after moderate brain injury (1B). Values normalized over time. Diffusion parameters were not significantly altered in the mild injury and sham groups. There was a strong relationship between sensorimotor function and diffusion parameters in the corpus callosum at 24h after moderate TBI (1C). 
+
+### Data processing
+
 The image processing relies on programs from [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) and [AFNI](https://afni.nimh.nih.gov) as well as on inhouse C++-tools.
 Source code for these tools is provided [here](https://github.com/wmotte/toolkid/).
 Binaries – compiled on a Ubuntu 64bit server – are [available](bin/) as well.
