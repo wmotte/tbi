@@ -44,6 +44,8 @@ Sub-directories include:
 * Post_processing: postprocessing scripts, including functional connectivity map constuction and regional quantification.
 * Registration: scripts to map images linearly and nonlinearly.
 
+The rat atlas is available in [this](https://github.com/wmotte/rat_brain_atlas) repository.
+
 ## License
 
 This project is licensed - see the [LICENSE](LICENSE) file for details
