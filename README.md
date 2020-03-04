@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/204529402.svg)](https://zenodo.org/badge/latestdoi/204529402)
+
 # tbi
 All scripts related to the study on traumatic brain injury in rats are available in this repository.
 The study is described in:
